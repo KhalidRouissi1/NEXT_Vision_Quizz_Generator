@@ -1,0 +1,12 @@
+transformers==4.35.2
+torch
+pydantic==2.5.2
+python-dotenv==1.0.0
+requests
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-multipart>=0.0.5
+pydantic>=1.8.0
+PyPDF2>=3.0.0
+nltk>=3.8.1
+googletrans==4.0.0-rc1
