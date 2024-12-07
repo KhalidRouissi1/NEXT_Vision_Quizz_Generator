@@ -1,0 +1,54 @@
+
+=== EASY QUESTIONS ===
+1. What are some of the things that are included in the plan?
+2. What is the name of the two contexts?
+3. What is the name of the machine that is used to describe the machine?
+4. What is the name of the service that is used in the Azure App Services?
+5. What is the name of the company that is based in the United States?
+6. What is the name of the context?
+7. What is the name of the group that is a part of the group?
+8. What is the name of the organization that is used in the context of the 'Orchestration'?
+9. What is the name of the group that is in the context of the context?
+10. What is the name of the person who is in the context of the context?
+11. What is the name of the web that enables the use of a specialized application?
+12. What is the name of the plan that is used to describe the recovery?
+13. What is the name of the organization that is a threat?
+14. What is the name of the person who is in the context of the world?
+15. What is the name of the person who is in the context of the world?
+16. What is the name of the locality that is used to describe the cost of a project?
+17. What is the name of the 'Replication entre regions for the résilience'?
+18. What is the name of the inter-régionale for the résilience?
+19. What are the two types of combinations?
+20. What is the name of the person who is in the context of the world?
+21. What is the name of the company that is a 'Power Automate'?
+22. What is the name of the data that is used to describe the data?
+23. What is the name of the group that is in the context of the context?
+24. What is the name of the resource d'une instance existante?
+
+=== MEDIUM QUESTIONS ===
+1. What is the name of the document that is titled?
+2. What is the name of the technology that permits de create des machines virtuelles?
+3. What is the name of the technologie used by the cloud computing?
+4. What is the name of the type of virtualized?
+5. What is the name of the service that is used to describe the service?
+6. What are the advantages of the model PaaS?
+7. What is the name of the software as a service?
+8. What is the name of the 'distribution'?
+9. What is the name of the etablissement d'applications à grande échelle?
+10. What are the terms for services et Concepts Azure Azure Regions?
+11. What is the name of the region that is frant tolérance aux pannes locales?
+12. What is the purpose of a zone de disponibilité?
+13. What are the regions géographiques proches?
+14. What is the name of the type of information that is used to protect the data?
+15. What is the name of the cloud that is used to protect the security of the occupants?
+16. What is the name of the file synchronization?
+17. What are the groups of resources?
+18. What are the names of the groups that are able to use?
+19. What are the options de stockage Azure - LRS, GRS et GZRS LRS?
+20. What is the name of the 'Zone-Redundant Storage'?
+21. What is the name of the application that is created?
+22. What is the name of the instance that is added to the capacity?
+
+=== HARD QUESTIONS ===
+1. What is the name of the service informatiques that are available via Internet?
+2. What are the Paires regionales for the résilience?
